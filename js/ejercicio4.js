@@ -13,8 +13,3 @@ function paridad(numero) {
 }
 const usuario = parseInt(prompt("Ingrese un número entero:"));
 paridad (usuario);
-// if (!isNaN(usuario)) {
-//     paridad(usuario);
-// } else {
-//     document.write("Por favor, ingrese un número entero válido.");
-// }
